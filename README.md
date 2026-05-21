@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dont-close-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Don’t Close Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-close-your-eyes/) |
+| **Get License** | [Get License For Don’t Close Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-close-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `97a62cc7709a71652d7acc8ade68513ce01d1bca18c79fa28a601a17c39fd21b` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
