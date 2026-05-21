@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dont-close-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Don’t Close Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-close-your-eyes/) |
+| **Get License** | [Commercial Licensing for Don’t Close Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-close-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got that midnight fire burning in your eyes
+> Pulling me closer under open skies
+> Your touch is a rhythm that I can't ignore
+> I'm crossing the line and I'm ready for more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
